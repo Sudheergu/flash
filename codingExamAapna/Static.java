@@ -23,7 +23,7 @@ public class Static
 	 }
 	 double sub(int a,double b)// take only three integer addition
 	 {
-		 System.out.println("Add Method with 2 arguments");
+		 System.out.println("Add Method with 3 arguments");
 	return  a-b;
 	 }
 	 
